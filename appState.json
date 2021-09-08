@@ -95,6 +95,12 @@
           "version": "1.21.2",
           "dev": false,
           "language": "python"
+        },
+        "google-cloud-storage": {
+          "name": "google-cloud-storage",
+          "version": "1.42.0",
+          "dev": false,
+          "language": "python"
         }
       }
     }
@@ -108,7 +114,7 @@
     "platform": "GCP",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1631078972875
+    "lastSave": 1631079843288
   },
   "VCS_STATE": {
     "provider": "GitHub",
